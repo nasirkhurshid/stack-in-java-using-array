@@ -1,3 +1,5 @@
+/* Copyright @Nasir Khurshid, August 2021 */
+
 public class stack {
 	private int top, num;
 	private int[] array;
