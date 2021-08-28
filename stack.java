@@ -1,4 +1,4 @@
-/* Copyright @Nasir Khurshid, August 2021 */
+/* Copyright August 2021, Nasir Khurshid. All right reserved. */
 
 public class stack {
 	private int top, num;
